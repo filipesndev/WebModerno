@@ -1,0 +1,7 @@
+{
+    "db": {
+        "host": "localhost",
+        "porta": 5432,
+        "user": "filipe"
+    }
+}

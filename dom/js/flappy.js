@@ -1,0 +1,3 @@
+function novoElemento (tagName, className) {
+    
+}

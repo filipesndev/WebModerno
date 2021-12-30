@@ -1,0 +1,12 @@
+const funcs = []
+
+for (let i = 1; i < 10; i++){
+    funcs.push(function (){
+        console.log(i)
+    })
+}
+
+funcs[2]()
+funcs[8]()
+
+//imprime o valor certo CARA SEMPRE USA LET NA MORAL
